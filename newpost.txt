@@ -1,0 +1,13 @@
+<div class='con container2'>
+<h1>This is my flashy title</h1>
+<br>
+<cite>-Much Love 12pm 10/12/2020-</cite>By me.
+<br>
+<br>
+<p>
+This is my post that reaches millions of people and earns me a fortune every day. A man can dream right?!
+</p>
+<br>
+<br>
+<a href='#top'>Jump to the top</a>
+</div>
